@@ -261,22 +261,22 @@ class _ManageContactsScreenState extends State<ManageContactsScreen> {
             padding: const EdgeInsets.all(8.0),
             child: Column(
               children: [
-                Container(
-                  padding: const EdgeInsets.only(bottom: 4),
-                  decoration: const BoxDecoration(
-                    gradient: LinearGradient(
-                      colors: [
-                        Color.fromARGB(255, 53, 39, 249),
-                        Color.fromARGB(255, 0, 255, 153),
-                      ], // Your gradient colors
-                      begin: Alignment.topLeft,
-                      end: Alignment.bottomRight,
-                    ),
-                  ),
-                  child: Container(
-                    decoration: const BoxDecoration(color: Colors.white),
-                  ),
-                ),
+                // Container(
+                //   padding: const EdgeInsets.only(bottom: 4),
+                //   decoration: const BoxDecoration(
+                //     gradient: LinearGradient(
+                //       colors: [
+                //         Color.fromARGB(255, 53, 39, 249),
+                //         Color.fromARGB(255, 0, 255, 153),
+                //       ], // Your gradient colors
+                //       begin: Alignment.topLeft,
+                //       end: Alignment.bottomRight,
+                //     ),
+                //   ),
+                //   child: Container(
+                //     decoration: const BoxDecoration(color: Colors.white),
+                //   ),
+                // ),
                 const SizedBox(
                   height: 5,
                 ),
