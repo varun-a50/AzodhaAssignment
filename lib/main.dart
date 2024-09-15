@@ -27,7 +27,7 @@ class MyApp extends StatelessWidget {
         title: 'Azodha',
         theme: ThemeData(
           colorScheme: ColorScheme.fromSeed(
-              seedColor: const Color.fromARGB(255, 80, 10, 201)),
+              seedColor: const Color.fromARGB(255, 10, 201, 109)),
           useMaterial3: true,
         ),
         home: const AddUserScreen(),
