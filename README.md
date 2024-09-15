@@ -1,16 +1,31 @@
-# azodhaassignment
+# User Management Application
 
-A new Flutter project.
+This application allows you to manage users and their contact information. Users can be added, edited, and deleted. Each user can have multiple contact details, and you can also edit or delete individual contact details.
+
+## Features
+
+- **Add Users**: Use the floating action button to add new users.
+- **Edit Users**: Edit existing user details using the edit button on the user list screen.
+- **Delete Users**: Delete users from the list.
+- **Manage Contact Information**: Each user can have multiple contact details. You can add, edit, and delete contact information for each user.
+
+## Screenshots
+
+Include screenshots of the application here (if applicable).
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To get a copy of this project up and running on your local machine, follow these instructions:
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Flutter](https://flutter.dev/docs/get-started/install) - For running the application
+- [Dart](https://dart.dev/get-dart) - Dart programming language
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+
+1. **Clone the Repository**
+
+   ```bash
+   git clone https://github.com/yourusername/your-repository.git
+
