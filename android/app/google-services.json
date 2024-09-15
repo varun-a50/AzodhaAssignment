@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "355055385346",
+    "project_id": "azodhaassignment",
+    "storage_bucket": "azodhaassignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355055385346:android:582f3186f556e1cf00e01b",
+        "android_client_info": {
+          "package_name": "com.example.azodhaassignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvrMmO2RvggzRc44gXWnY4xXOwvc_L63k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
